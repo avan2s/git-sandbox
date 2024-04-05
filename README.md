@@ -1,3 +1,3 @@
 # git-sandbox
-a git playground for testingF3 out several stuff
+a git playground for testingF1F2 out several stuff
 something else in f2
