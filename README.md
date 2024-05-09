@@ -1,5 +1,6 @@
 # git-sandbox in dev
-a git playground for testingF1-F2-F5 out several stuff
-something else in fx
+a git playground for testing out branching rebasing without caring about to destroy something useful
 
+changelog:
 # version 0.0.3-dev
+# version 0.1.0

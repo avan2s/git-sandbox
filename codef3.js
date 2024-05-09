@@ -1,0 +1,2 @@
+// comment
+let foo = 'bar'

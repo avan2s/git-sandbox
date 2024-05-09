@@ -1,0 +1,40 @@
+@startuml
+!theme mars
+
+ExampleCaller *-- Example
+Example o-- Example
+
+
+interface IExample {
+  public spacelab
+}
+
+class ExampleCaller{
+  - example: Example;
+
+
+
++ int method(Example example)
+
+}
+note bottom: On last defined class
+
+abstract class Example implements IExample{
+  Theme spacelab
+
+  {abstract} spacelab()
+}
+
+class Foo extends Example{
+foo: string
+}
+agent {
+  BackGroundColor #f80c12
+  LineThickness 1
+  LineColor black
+}
+
+class Foo2 extends Example{
+foo: string
+}
+@enduml
